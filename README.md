@@ -10,4 +10,6 @@ Client-angular
 #Run sln and start browse
 #if there is a client problem, swagger is avaliable to run on backend side
 
+:) Have FUN :)
+
 
