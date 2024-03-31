@@ -1,0 +1,47 @@
+<!--selected user-->
+<div class="selectedUser" *ngIf="user">
+  <h3>User Details</h3>
+  <p>Name: {{ user.Name }}</p>
+  <p>Email: {{ user.Email }}</p>
+</div>
+
+<!--show user policies-->
+<div class="userPolicies" *ngIf="policies && this.policies.length > 0">
+  <h3>Insurance Policies</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Policy Number</th>
+        <th>Insurance Amount</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let policy of policies" class="policy-item">
+        <td>{{ policy.ID }}</td>
+        <td>{{ policy.PolicyNumber }}</td>
+        <td>{{ policy.InsuranceAmount }}</td>
+        <td>{{ policy.StartDate }}</td>
+        <td>{{ policy.EndDate }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="userPolicies" *ngIf="policies.length==0">
+  <h3>User has no policies</h3>
+</div>
+<div class="userPolicies">
+  <h2>Add New Policy</h2>
+  <div class="add-policy">
+    <div>* Fill in the details if you want to add a new policy (only for exsiting user):</div>
+
+    <input type="text" [(ngModel)]="userPolicy.PolicyNumber" name="PolicyNumber" placeholder="PolicyNumber">
+    <input type="number" [(ngModel)]="userPolicy.InsuranceAmount" name="InsuranceAmount" placeholder="InsuranceAmount">
+    <input type="date" [(ngModel)]="userPolicy.StartDate" name="StartDate" placeholder="StartDate">
+    <input type="date" [(ngModel)]="userPolicy.EndDate" name="EndDate" placeholder="EndDate">
+    <button (click)="addPolicy(user.ID)">Add Policy</button>
+
+  </div>
+</div>

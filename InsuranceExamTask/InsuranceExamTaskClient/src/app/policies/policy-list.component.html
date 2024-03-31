@@ -1,0 +1,50 @@
+<!-- policy-list.component.html -->
+<h2>Policy List</h2>
+
+<div class="policy-list-container">
+  Here are all the policies in our system:
+  <table class="policy-list">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Policy Number</th>
+        <th>Insurance Amount</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>User ID</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let policy of policies" class="policy-item">
+        <td>{{ policy.ID }}</td>
+        <td>{{ policy.PolicyNumber }}</td>
+        <td>{{ policy.InsuranceAmount }}</td>
+        <td>{{ policy.StartDate }}</td>
+        <td>{{ policy.EndDate }}</td>
+        <td>{{ policy.UserID }}</td>
+        <td class="actions">
+          <button (click)="updatePolicy(policy)">Update Policy</button>
+          <button class="policy-info" (click)="deletePolicy(policy.ID)">Delete Policy</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Add New Policy</h2>
+<div class="add-policy">
+  <div>*Fill in the details if you want to add a new policy:</div>
+
+
+  <input type="number" [(ngModel)]="policy.UserID" name="UserID" placeholder="UserID">
+  <input type="text" [(ngModel)]="policy.PolicyNumber" name="PolicyNumber" placeholder="PolicyNumber">
+  <input type="number" [(ngModel)]="policy.InsuranceAmount" name="InsuranceAmount" placeholder="InsuranceAmount">
+  <input type="date" [(ngModel)]="policy.StartDate" name="StartDate" placeholder="StartDate">
+  <input type="date" [(ngModel)]="policy.EndDate" name="EndDate" placeholder="EndDate">
+  <button (click)="addPolicy()">Add Policy</button>
+
+</div>
+
+
+<!--<app-insurance-policy-form [policy]="editPolicy" (save)="onSave($event)" (cancel)="onCancel()"></app-insurance-policy-form>-->

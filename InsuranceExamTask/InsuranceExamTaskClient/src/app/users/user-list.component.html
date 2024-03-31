@@ -1,0 +1,62 @@
+
+<h2>User List</h2>
+
+<div class="user-list-container">
+  <table class="user-list">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>ID</th>
+        <th>Email</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users" class="user-item">
+        <td>{{ user.Name }}</td>
+        <td>{{ user.ID }}</td>
+        <td>{{ user.Email }}</td>
+        <td>
+          <div class="actions">
+            <button (click)="updateUser(user)">Update User</button>
+            <button class="user-info" (click)="deleteUser(user.ID)">Delete User</button>
+            <button (click)="showUserPolicies(user.ID)">Show user policies</button>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Update User</h2>
+<div class="update-user">
+  <div class="update-input">
+    <input type="text" [(ngModel)]="userChanges.Name" name="Name" placeholder="Name">
+  </div>
+ 
+  <div class="update-input">
+    <input type="text" [(ngModel)]="userChanges.Email" name="Email" placeholder="Email">
+  </div>
+</div>
+<h2>Add New User</h2>
+<div class="add-user">
+  <div>
+    <div>* Fill in the details if you want to add a new user:</div>
+    <div>* ID-required and must be between 8 to 9 digits</div>
+    <div>* Email-should be a validate email</div>
+
+    <div class="add-input">
+      <input type="text" [(ngModel)]="user.Name" name="Name" placeholder="Name">
+    </div>
+    <div class="add-input">
+      <input type="number" [(ngModel)]="user.ID" name="ID" placeholder="ID">
+
+    </div>
+    <div class="add-input">
+      <input type="text" [(ngModel)]="user.Email" name="Email" placeholder="Email">
+    </div>
+  </div>
+
+  <button (click)="addUser()">Add User</button>
+
+</div>

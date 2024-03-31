@@ -1,0 +1,995 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\policies\\insurance-policy-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\policies\\insurance-policy-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\policies\\insurance-policy-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\policies\\insurance-policy-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\policies\\policy-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\policies\\policy-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\users\\user-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\users\\user-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\users\\user-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\users\\user-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\policies\\policy-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\policies\\policy-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\policies\\policy-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\policies\\policy-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\repositories\\insurancepolicyrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\repositories\\insurancepolicyrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\controllers\\insurancepoliciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\controllers\\insurancepoliciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\policies\\insurance-policy.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\policies\\insurance-policy.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\policies\\insurance-policy-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\policies\\insurance-policy-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\users\\user-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\users\\user-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\api\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\api\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\node_modules\\@angular\\core\\fesm2022\\core.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsuranceExamTaskClient\\node_modules\\@angular\\core\\fesm2022\\core.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\irepositories\\iinsurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\irepositories\\iinsurancepolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\users\\user-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\users\\user-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\node_modules\\@angular\\common\\fesm2022\\http.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsuranceExamTaskClient\\node_modules\\@angular\\common\\fesm2022\\http.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\users\\user-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\users\\user-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\users\\user-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\users\\user-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\app\\users\\user.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\app\\users\\user.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\insuranceexamtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\insuranceexamtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\webapplication6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EFCB2D9-667A-4C23-95A6-8A08DC7C80C1}|WebApplication6\\InsuranceExamTask.csproj|solutionrelative:webapplication6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\insuranceexamtaskclient.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\insuranceexamtaskclient.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\src\\api\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\src\\api\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|c:\\users\\kobi\u0027s mac pc\\source\\repos\\insuranceexamtask\\insuranceexamtaskclient\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B2F421E-C5DE-4B30-A543-7C05B8E04040}|InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj|solutionrelative:insuranceexamtaskclient\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\InsuranceExamTask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\.nuget\\packages\\microsoft.visualstudio.javascript.sdk\\0.5.271090-alpha\\Sdk\\Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\IRepositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\InsurancePoliciesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Repositories\\InsurancePolicyRepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Models\\InsurancePolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.module.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T20:53:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T20:53:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "insurance-policy-form.component.html",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.html",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.html",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.html",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.html",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-31T18:15:12.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "insurance-policy-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.ts",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-31T18:15:10.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.component.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T20:53:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "policy-list.component.html",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.html",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.html",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.html",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-30T22:01:37.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user-list.component.html",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-list.component.html",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\users\\user-list.component.html",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-list.component.html",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\users\\user-list.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-30T21:07:37.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user-details.component.html",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-details.component.html",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\users\\user-details.component.html",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-details.component.html",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\users\\user-details.component.html",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-31T00:28:19.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.component.html",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-31T04:15:09.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "policy-list.component.css",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.css",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.css",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.css",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-30T22:01:36.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "policy-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\policies\\policy-list.component.ts",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T22:02:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsurancePolicyRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "RelativeToolTip": "WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAACkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:46:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication6\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA7wDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:30:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InsurancePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Models\\InsurancePolicy.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\InsurancePolicy.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Models\\InsurancePolicy.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\InsurancePolicy.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T02:22:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:05:56.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InsurancePoliciesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:22:52.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "insurance-policy.model.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy.model.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy.model.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy.model.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-31T01:40:54.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "insurance-policy-form.component.css",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.css",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.css",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.css",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\policies\\insurance-policy-form.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-31T18:15:07.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "user-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-details.component.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\users\\user-details.component.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-details.component.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\users\\user-details.component.ts",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-31T00:28:09.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "api.service.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\api\\api.service.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\api\\api.service.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\api\\api.service.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\api\\api.service.ts",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswDwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T21:15:05.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Data\\DataContext.cs",
+              "RelativeToolTip": "WebApplication6\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:38:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "WebApplication6\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:38:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "core.mjs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "RelativeToolTip": "InsuranceExamTaskClient\\node_modules\\@angular\\core\\fesm2022\\core.mjs",
+              "ViewState": "AQIAAAJkAAAAAAAAAAAswA5kAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-30T23:12:40.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IInsurancePolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "RelativeToolTip": "WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:22:35.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "user-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-list.component.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\users\\user-list.component.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-list.component.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\users\\user-list.component.ts",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T21:07:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "http.mjs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\node_modules\\@angular\\common\\fesm2022\\http.mjs",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\node_modules\\@angular\\common\\fesm2022\\http.mjs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\node_modules\\@angular\\common\\fesm2022\\http.mjs",
+              "RelativeToolTip": "InsuranceExamTaskClient\\node_modules\\@angular\\common\\fesm2022\\http.mjs",
+              "ViewState": "AQIAAGUFAAAAAAAAAAAswKkFAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-31T00:09:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "user-details.component.css",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-details.component.css",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\users\\user-details.component.css",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-details.component.css",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\users\\user-details.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-31T00:28:39.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "user-list.component.css",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-list.component.css",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\users\\user-list.component.css",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user-list.component.css",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\users\\user-list.component.css",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-30T21:07:58.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\app.component.css",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-30T21:05:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "WebApplication6\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:29:30.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "user.model.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user.model.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\app\\users\\user.model.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\app\\users\\user.model.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\app\\users\\user.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-31T01:09:45.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T02:12:09.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InsuranceExamTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\InsuranceExamTask.csproj",
+              "RelativeDocumentMoniker": "WebApplication6\\InsuranceExamTask.csproj",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\InsuranceExamTask.csproj",
+              "RelativeToolTip": "WebApplication6\\InsuranceExamTask.csproj",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T09:48:18.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\main.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\main.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\main.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T20:50:15.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\index.html",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\index.html",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\index.html",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-30T21:37:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication6\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\WebApplication6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication6\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T21:16:05.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\package.json",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\package.json",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\package.json",
+              "RelativeToolTip": "InsuranceExamTaskClient\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T21:16:36.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\karma.conf.js",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\karma.conf.js",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\karma.conf.js",
+              "RelativeToolTip": "InsuranceExamTaskClient\\karma.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-31T00:20:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\nuget.config",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\nuget.config",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\nuget.config",
+              "RelativeToolTip": "InsuranceExamTaskClient\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-31T00:20:30.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\tsconfig.json",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\tsconfig.json",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\tsconfig.json",
+              "RelativeToolTip": "InsuranceExamTaskClient\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T00:20:27.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\README.md",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\README.md",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\README.md",
+              "RelativeToolTip": "InsuranceExamTaskClient\\README.md",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-31T00:20:23.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\proxy.conf.js",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-30T20:50:24.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InsuranceExamTaskClient.esproj",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj",
+              "RelativeToolTip": "InsuranceExamTaskClient\\InsuranceExamTaskClient.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T23:26:32.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "api.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\api\\api.service.spec.ts",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\src\\api\\api.service.spec.ts",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\src\\api\\api.service.spec.ts",
+              "RelativeToolTip": "InsuranceExamTaskClient\\src\\api\\api.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T21:16:42.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "InsuranceExamTaskClient\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\InsuranceExamTask\\InsuranceExamTaskClient\\.vscode\\launch.json",
+              "RelativeToolTip": "InsuranceExamTaskClient\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T20:53:57.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InsuranceExamTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\InsuranceExamTask.csproj",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\InsuranceExamTask.csproj",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\InsuranceExamTask.csproj",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\InsuranceExamTask.csproj",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T20:54:26.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\.nuget\\packages\\microsoft.visualstudio.javascript.sdk\\0.5.271090-alpha\\Sdk\\Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.javascript.sdk\\0.5.271090-alpha\\Sdk\\Sdk.targets",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\.nuget\\packages\\microsoft.visualstudio.javascript.sdk\\0.5.271090-alpha\\Sdk\\Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.javascript.sdk\\0.5.271090-alpha\\Sdk\\Sdk.targets",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAiwO8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-30T20:16:36.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Data\\DataContext.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:55:27.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:00:30.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:00:50.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Program.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:06:14.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:03:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "InsurancePoliciesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Controllers\\InsurancePoliciesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:04:58.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Models\\User.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAcAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:57:52.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "InsurancePolicyRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Repositories\\InsurancePolicyRepository .cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:02:58.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "InsurancePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Models\\InsurancePolicy.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Models\\InsurancePolicy.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Models\\InsurancePolicy.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Models\\InsurancePolicy.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:58:10.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IInsurancePolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\IRepositories\\IInsurancePolicyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:02:32.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.Development.json",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T12:29:08.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T14:50:09.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\WebApplication6\\WebApplication6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kobi\u0027s Mac Pc\\source\\repos\\WebApplication6\\WebApplication6\\appsettings.json",
+              "RelativeToolTip": "..\\WebApplication6\\WebApplication6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T12:13:32.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

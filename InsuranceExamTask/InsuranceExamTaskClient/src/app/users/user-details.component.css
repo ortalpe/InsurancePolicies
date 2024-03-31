@@ -1,0 +1,44 @@
+/* user-details.component.css */
+
+/* Styling for the selected user details */
+.selectedUser {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+  .selectedUser p {
+    margin: 5px 0;
+  }
+
+/* Styling for the user policies table */
+.userPolicies {
+  margin-top: 20px;
+}
+
+  .userPolicies h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .userPolicies table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .userPolicies th,
+  .userPolicies td {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+
+  .userPolicies th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+
+  .userPolicies tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
