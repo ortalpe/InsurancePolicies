@@ -7,7 +7,7 @@ DB-sqlite
 Backend-asp.net web api
 Client-angular
 
-#run sln and start browse
+#Run sln and start browse
 #if there is a client problem, swagger is avaliable to run on backend side
 
 
